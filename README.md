@@ -10,6 +10,7 @@ A Simple business card might not have all the information related to you, but in
 6. XR Plugin management Package
 
 ## FLOW CHART:
+![](flow.jpg)
                           
 ## UNITY SETUP:
 1. After installing Unity Hub and opening, we will click on “New,” then select “3D” as a template, name the project and select its location. Then we click on “Create.”
